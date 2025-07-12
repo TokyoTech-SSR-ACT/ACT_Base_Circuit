@@ -26,6 +26,7 @@ Top
 
 ## 本基板のライブラリについて
 　本制御基板を動作させるためのライブラリとして，Arduinoフレームワークを用いたライブラリを開発しております．
+
 　近日公開予定ですので，今しばらくお待ちください．
 
 ## コンタクト
@@ -35,12 +36,13 @@ Top
 
 ## 開発者
 開発者は以下の通りです．
-[Sugi_kmmm](https://github.com/Sugi-kmmm)
-[21-kojima](https://github.com/21-kojima)
-[22-soeda](https://github.com/22-soeda)
+- [Sugi_kmmm](https://github.com/Sugi-kmmm)
+- [21-kojima](https://github.com/21-kojima)
+- [22-soeda](https://github.com/22-soeda)
 
 
 ## LICENSE情報
-BaseNoidは以下のクリエイティブ・コモンズ・ライセンスにより保護されています．
+ACT Base Circuitは以下のクリエイティブ・コモンズ・ライセンスにより保護されています．
 
-BaseNoid © 2025 by [Rei Sugihara](https://sugi-kmmm.github.io/index.html) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
+ACT Base Circuit © 2025 by [
+TokyoTech-SSR-ACT](https://github.com/TokyoTech-SSR-ACT) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
